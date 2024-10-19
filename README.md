@@ -2,7 +2,7 @@
 
 
 
-![dashboard](https://github.com/AyeshaMalikAyesha/AverageIQByState/blob/main/dashboard.png?raw=true)
+![dashboard](https://github.com/AyeshaMalikAyesha/AverageIQByState/blob/main/Dashboard.png?raw=true)
 
 
 The graph shows the IQ of 50 US state based on the data from 2022 report by Pesta, Bryan J. “Updated IQ and Well-Being Scores for the 50 U.S. States”.
